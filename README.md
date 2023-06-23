@@ -1,7 +1,7 @@
 # **<div align="center">Hi there 👋, I'm Bilal aka TheRifian. Junior Software Engineer 👨‍💻.</div>**  
   
 
-- 🔭 I’m currently working on the [Advent Of Code](https://github.com/therifian/adventofcode)  
+- 🔭 I’m currently working on the [Advent Of Code](https://github.com/therifian/advent-of-code)  
 - 🌱 I’m currently learning Rust and Flutter  
 - ❓ Ask me about anything will be happy to help 🤝
 - 📫 How to reach me: You can find me on [Twitter](https://twitter.com/the_rifian)  
@@ -13,7 +13,7 @@
   <a href="https://twitter.com/the_rifian" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter">
   </a>
-  <a href="https://linkedin.com/in/bilal-kata-a96008189" target="_blank">
+  <a href="https://linkedin.com/in/bilalkata" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>  
   <a href="https://gitlab.com/therifian" target="_blank">
@@ -21,9 +21,6 @@
   </a>
   <a href="https://github.com/therifian" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-  </a>
-  <a href="https://codepen.com/therifian" target="_blank">
-    <img src="https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white" alt=codepen />
   </a>
 </div>  
 <br/>  
