@@ -1,17 +1,17 @@
 # **<div align="center">Hi there 👋, I'm Bilal aka TheRifian. Junior Software Engineer 👨‍💻.</div>**  
   
 
-- 🔭 I’m currently working on the [Advent Of Code](https://github.com/therifian/advent-of-code)  
-- 🌱 I’m currently learning Rust and Flutter  
+- 🔭 I’m currently working on *comming soon*
+- 🌱 I’m currently learning ML and DL  
 - ❓ Ask me about anything will be happy to help 🤝
-- 📫 How to reach me: You can find me on [Twitter](https://twitter.com/the_rifian)  
+- 📫 How to reach me: You can find me on [X](https://x.com/the_rifian)  
 <br/>  
 
 ## Connect with me  
 
 <div align="center">
-  <a href="https://twitter.com/the_rifian" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter">
+  <a href="https:/x.com/the_rifian" target="_blank">
+    <img src="https://img.shields.io/badge/x-%2300acee.svg?&style=for-the-badge&logo=x&logoColor=white" alt="x">
   </a>
   <a href="https://linkedin.com/in/bilalkata" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
@@ -22,80 +22,83 @@
   <a href="https://github.com/therifian" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   </a>
+    <a href="https://www.kaggle.com/therifian" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle"/>
+  </a>
 </div>  
 <br/>  
 
 ##   🛠️     Technologies & Tools
-<table>
-  <tr>
-    <td valign="top" width="33%">
 
-### Frontend
-<div align="center">  
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/9.0.0/html5.svg" alt="HTML5" height="50" /></a>  
-  <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/9.0.0/css3.svg" alt="CSS3" height="50" /></a> 
-  <a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/9.0.0/bootstrap.svg" alt="Bootstrap" height="50" /></a>  
-  <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/9.0.0/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
-  <a href="https://react.dev/" target="_blank"><img style="margin: 10px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/9.0.0/react.svg" alt="React" height="50" /></a>  
-  <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/9.0.0/vuedotjs.svg" alt="Vue.js" height="50" /></a>  
-  <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/9.0.0/angular.svg" alt="Angular" height="50" /></a>  
-    <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/9.0.0/redux.svg" alt="Redux" height="50" /></a>  
-  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/9.0.0/javascript.svg" alt="JavaScript" height="50" /></a>  
-  <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/9.0.0/typescript.svg" alt="TypeScript" height="50" /></a>  
-</div>
 
-</td>
+### Languages & Framworks
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Quarkus](https://img.shields.io/badge/quarkus-%234794EB.svg?style=for-the-badge&logo=quarkus&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
-<td valign="top" width="33%">
+### SysOps & DevOps
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 
-### Backend
-<div align="center">  
-  <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/9.0.0/nodedotjs.svg" alt="Node.js" height="50" /></a>  
-  <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/9.0.0/nextdotjs.svg" alt="NextJS" height="50" /></a>  
-  <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/java.svg" alt="Java" height="50" /></a>  
-  <a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/9.0.0/springboot.svg" alt="Spring" height="50" /></a> 
-  <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/9.0.0/php.svg" alt="PHP" height="50" /></a>  
-  <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/9.0.0/laravel.svg" alt="Laravel" height="50" /></a>  
-  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/9.0.0/python.svg" alt="Python" height="50" /></a>    
-  <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/9.0.0/go.svg" alt="Go" height="50" /></a>    
-</div>
+### AI & ML/DL
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-</td>
-<td valign="top" width="33%">
-
-### DevOps & DB
-<div align="center">  
-  <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/9.0.0/linux.svg" alt="Linux" height="50" /></a>  
-  <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/9.0.0/git.svg" alt="Git" height="50" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/9.0.0/docker.svg" alt="Docker" height="50" /></a>  
-    <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/9.0.0/gitlab.svg" alt="GitLab" height="50" /></a> 
-  <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/9.0.0/nginx.svg" alt="Nginx" height="50" /></a>  
-  <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/9.0.0/amazonaws.svg" alt="AWS" height="50" /></a>   
-   <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/9.0.0/mysql.svg" alt="MySQL" height="50" /></a>  
-  <a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/9.0.0/mariadb.svg" alt="Maria DB" height="50" /></a>  
-  <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/9.0.0/postgresql.svg" alt="PostgreSQL" height="50" /></a>  
-  <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/9.0.0/mongodb.svg" alt="MongoDB" height="50" /></a>
-</div>
-
-</td>
-</tr>
-</table>  
-
-<br/>  
 
 ## 📊 GitHub Stats:
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=therifian&theme=vue&hide_border=false&include_all_commits=false&count_private=true" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therifian&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="center">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=therifian&theme=vue&hide_border=false&include_all_commits=false&count_private=true" align="center" />
 </div>  
 
 <br>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=therifian&theme=vue&hide_border=false" align="center">
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therifian&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="center">
 </div>
