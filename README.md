@@ -94,17 +94,13 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therifian&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=therifian&theme=default&show_icons=true&hide_border=false&count_private=true" align="cender" width="40%">
 </div>
-
 <br>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=therifian&theme=vue&hide_border=false&include_all_commits=false&count_private=true" align="center" />
-</div>  
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therifian&theme=default&show_icons=true&hide_border=false&layout=compact" align="cender" width="40%">
+</div>
 <br>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=therifian&theme=vue&hide_border=false" align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=therifian&theme=default&hide_border=false" align="center" width="50%">
 </div>
