@@ -7,7 +7,7 @@
 - 📫 How to reach me: You can find me on [X](https://x.com/the_rifian)  
 <br/>  
 
-## Connect with me  
+## Connect with me
 
 <div align="center">
   <a href="https://x.com/the_rifian" target="_blank">
@@ -22,9 +22,10 @@
   <a href="https://github.com/therifian" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   </a>
-    <a href="https://www.kaggle.com/therifian" target="_blank">
+  <a href="https://www.kaggle.com/therifian" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=therifian&style=for-the-badge&abbreviated=true" alt="viewers"/>
 </div>  
 <br/>  
 
