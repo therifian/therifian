@@ -10,7 +10,7 @@
 ## Connect with me  
 
 <div align="center">
-  <a href="https:/x.com/the_rifian" target="_blank">
+  <a href="https://x.com/the_rifian" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="x">
   </a>
   <a href="https://linkedin.com/in/bilalkata" target="_blank">
